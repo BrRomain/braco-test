@@ -14,7 +14,7 @@ There is also Conversion.Tests which contains unit test for conversion business 
 
 ### Technical
 
-- Improve testing coverage
+- Improve test coverage
 - Add UI testing
 - Use coherent styling library
 
