@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Conversion.WPF\Conversion.WPF.csproj" />
-      <ProjectReference Include="..\Shell\Shell.csproj" />
     </ItemGroup>
 
     <ItemGroup>
